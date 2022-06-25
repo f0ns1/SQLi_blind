@@ -11,12 +11,15 @@ The script evaluate the response of the target web server in order to obtain if 
 
 Example 1 [Evaluate target server]:
 
-
+![target_server](sqli_target.png)
 
 Example 2 [Obtain database version]:
 
-
+![db_version](sqli_db_version.png)
 
 
 Example 3 [Obtain user and credentials]:
 
+![Db query](sqli_1.png)
+
+![python_exploit](sqli_2.png)
